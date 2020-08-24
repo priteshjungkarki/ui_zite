@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1982" data-name="Rectangle 1982" width="24" height="24" transform="translate(-706 593)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_1971" data-name="Rectangle 1971" width="24" height="24" transform="translate(214 160)" fill="#40b449"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_79" data-name="Mask Group 79" transform="translate(706 -593)" clip-path="url(#clip-path)">
+    <g id="Mask_Group_70" data-name="Mask Group 70" transform="translate(-920 433)" clip-path="url(#clip-path-2)">
+      <path id="delete_major_monotone" d="M15.492,3.6h-2.7V1.8a1.8,1.8,0,0,0-1.8-1.8H7.4A1.8,1.8,0,0,0,5.6,1.8V3.6H2.9a.9.9,0,1,0,0,1.8V17.09a.9.9,0,0,0,.9.9H14.593a.9.9,0,0,0,.9-.9V5.4a.9.9,0,1,0,0-1.8ZM4.7,16.191h8.995V5.4H4.7ZM7.4,3.6h3.6V1.8H7.4Zm0,10.794a.9.9,0,0,0,.9-.9V8.1a.9.9,0,1,0-1.8,0v5.4a.9.9,0,0,0,.9.9m3.6,0a.9.9,0,0,0,.9-.9V8.1a.9.9,0,1,0-1.8,0v5.4a.9.9,0,0,0,.9.9" transform="translate(217 163)" fill="#40b449" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
